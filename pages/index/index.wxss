@@ -1,0 +1,38 @@
+/* pages/index/index.wxss */
+.scanArea{
+  width: 300rpx;
+  height: 300rpx;
+  background-color: skyblue;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.scanArea:active{
+  background-color: rgb(164, 216, 236);
+}
+image{
+  width: 160rpx;
+  height: 160rpx;
+}
+.container{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+.outLine{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 160rpx;
+  width: 160rpx;
+  border: 3px #fff solid;
+}
+.line{
+  width: 80%;
+  height: 2px;
+background-color: #fff;
+}
+
