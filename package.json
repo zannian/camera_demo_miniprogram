@@ -1,0 +1,27 @@
+{
+  "name": "camera_demo_miniprogram",
+  "version": "1.0.0",
+  "description": "miniprogram camera demo(with gyroscope adjustment)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zannian/camera_demo_miniprogram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zannian/camera_demo_miniprogram/issues"
+  },
+  "homepage": "https://github.com/zannian/camera_demo_miniprogram#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

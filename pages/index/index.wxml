@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  <view class="scanArea" bindtap="scanWork">
+    <!-- <view class="outLine">
+      <view class="line"></view>
+    </view> -->
+    <image src="/public/scan.png"></image>
+  </view>
+</view>

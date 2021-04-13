@@ -1,2 +1,2 @@
 # camera_demo_miniprogram
-miniprogram camera demo(with gyroscope adjustment)
+该模块为相机调用水平仪的demo
