@@ -1,0 +1,11 @@
+<!--pages/camera/camera.wxml-->
+<camera>
+  <view class="reference">
+    <view wx:for="{{8}}"></view>
+  </view>
+  <view class="tools">
+    <view class="outCir">
+    <view class="inside" bindtap="takePhoto"></view>
+  </view>
+  </view>
+</camera>
